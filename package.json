@@ -1,0 +1,28 @@
+{
+  "name": "phonenumber",
+  "version": "0.0.1-dev",
+  "description": "A cordova plugin for phonenumber.",
+  "cordova": {
+    "id": "cordova-plugin-phonenumber",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaverioDiDomenico/phonenumber.git"
+  },
+  "keywords": [],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "Saverio Di Domenico",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/SaverioDiDomenico/phonenumber/issues"
+  },
+  "homepage": "https://github.com/SaverioDiDomenico/phonenumber#readme"
+}
